@@ -1,0 +1,76 @@
+[
+    {
+        "1": " An electronic component used to store electric charge is …",
+        "2": " Rectifier is a device used to …",
+        "3": " Semiconductor’s have which of the following bond?",
+        "4": " CRO stands for",
+        "5": " The  multimeter is an instrument  that measure",
+        "6": " The function of zener diode is …",
+        "7": " What is Avalanche breakdown in zener diode?",
+        "8": " The modulation technique used for mobile communication systems during world war II was",
+        "9": " World’s first cellular system was developed by",
+        "10": "  MIN stands for "
+    },
+    {
+        "1": [
+            "Inductor",
+            "Resistor",
+            "Capacitor",
+            "None of these"
+        ],
+        "2": [
+            " Convert DC to AC",
+            "Convert AC to DC",
+            "Both",
+            "None of the above"
+        ],
+        "3": [
+            "Co-ordinate",
+            "Covalent bond",
+            " Electrovalent",
+            " all of the above"
+        ],
+        "4": [
+            "Cathode ray oscillioscope",
+            "Cathode ray output",
+            "Cathode osscillator",
+            "None of these"
+        ],
+        "5": [
+            "Resistance",
+            "Voltage",
+            "Current ",
+            "All of these"
+        ],
+        "6": [
+            "Current Amplifier",
+            "Voltage Amplifier ",
+            "Regulators",
+            "All of these"
+        ],
+        "7": [
+            " Voltage multiplication ",
+            "Electric current multiplication",
+            "Electrons are decelerated",
+            "rise in voltage"
+        ],
+        "8": [
+            " Amplitude modulation",
+            "Frequency Modulation",
+            "ASK",
+            "FSK"
+        ],
+        "9": [
+            "Nippon Telephone and Telegraph",
+        "Bellcore and motorola",
+        "At& Bell Laboratories",
+        "Qualcomn"  
+        ],
+        "10": [
+            "Mobile Indentification Number",
+            "Mobile Internet ",
+            "Mobility In Network",
+            "None of the above"
+        ]
+    }
+]
